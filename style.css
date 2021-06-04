@@ -1,0 +1,42 @@
+body{
+
+    background-size: cover;
+    background-position: center;
+}
+
+.header{
+
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+
+}
+
+#start{
+
+    font-size: 20px;
+}
+
+#objects,#status{
+
+    font-size: 20px;
+}
+
+.footer{
+
+    bottom: 0;
+    background-color: grey;
+    color: antiquewhite;
+    text-align: center;
+    line-height: 3;
+    position: fixed;
+    width: 100%;
+}
+
+canvas{
+
+    border: 3px solid whitesmoke;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
